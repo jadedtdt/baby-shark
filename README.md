@@ -1,3 +1,3 @@
 # baby-shark
 code golf challenge
-168 characters
+167 characters
